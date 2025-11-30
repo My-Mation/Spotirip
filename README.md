@@ -21,7 +21,8 @@ I wanted a system where:
 What began as a learning experiment evolved into a reliable, personal streaming setup running inside a phone.
 
 ---
-
+![WhatsApp Image 2025-11-29 at 22 49 43_78c0f34c](https://github.com/user-attachments/assets/32d9997d-2040-4ae2-8af1-0a17bdd25456)
+---
 ## 🟧 System Architecture
 
 ### **Android Layer**
@@ -59,6 +60,9 @@ Any device on the hotspot/Wi-Fi can stream through:
 - Another phone or laptop  
 
 The result is a clean, private music server similar to Spotify, but fully self-hosted.
+---
+
+<img src="https://github.com/user-attachments/assets/d7b178d7-e66c-4ebc-a658-d444e83295d0" width="300">
 
 ---
 
